@@ -1,0 +1,10 @@
+# Site Settings
+title: An example of a site
+github_usernae: lcarlson
+description: >
+  This is a practice site
+ url: "https://sites.brown.edu/earthlab
+ 
+ #build settings
+ markdown: kramdown
+ theme: minima
